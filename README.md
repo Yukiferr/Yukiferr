@@ -5,7 +5,7 @@
 ---
 
 ## Sobre mim
-- 💻 Desenvolvedor Fullstack  
+- 💻 Estudante de Análise e Desenvolimento de Sistemas - com foco em ser Desenvolvedor Fullstack  
 - 📚 Aprofundando em **Spring Boot** e **React**  
 - 🔎 Interesses: arquitetura de software, performance e boas práticas  
 - 🐱‍🏍 No tempo livre ou estou lendo livros ou estou jogando 🎮
